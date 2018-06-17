@@ -1,0 +1,119 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{pazos_gerla_rigolio_1999}
+\BIBentryALTinterwordspacing
+C.~M. Pazos, M.~Gerla, and G.~Rigolio, ``Flow control and bandwidth management
+  in next generation internets,'' \emph{Telecommunication Systems}, vol.~11,
+  no. 304, pp. 394--412, 1999. [Online]. Available:
+  \url{http://search.proquest.com/docview/212047202?accountid=47253}
+\BIBentrySTDinterwordspacing
+
+\bibitem{communication_news_2001}
+C.~News, ``Bandwidth management pays off,'' \emph{Communication News}, vol.~38,
+  no.~11, p. 54–56, Nov 2001.
+
+\bibitem{awduche_chiu_elwalid_xiao_2002}
+D.~Awduche, A.~Chiu, A.~Elwalid, and X.~Xiao, ``Overview and principles of
+  internet traffic engineering,'' \emph{The Internet Society}, 2002.
+
+\bibitem{teach_ict_nd}
+\BIBentryALTinterwordspacing
+Teach-ICT, ``Bandwidth.'' [Online]. Available:
+  \url{http://www.teach-ict.com/as\_a2\_ict\_new/ocr/A2\_G063/333\_networks\_coms/bandwidth/miniweb/pg2.htm}
+\BIBentrySTDinterwordspacing
+
+\bibitem{tong_yang_2007}
+S.~Tong and O.~Yang, ``Bandwidth management for supporting differentiated-
+  service aware traffic engineering,'' \emph{Parallel and Distrubuted Systems},
+  vol.~18, no.~9, pp. 1320--1331, 2007.
+
+\bibitem{kanu_kuyoro_ogunlere_adegbenjo_2012}
+R.~Kanu, S.~Kuyoro, S.~Ogunlere, and A.~Adegbenjo, ``Management and control of
+  bandwidth in computer networks,'' \emph{International Journal of Computer
+  Networks and Wireless Communications}, vol.~2, no.~3, pp. 342--348, 2012.
+
+\bibitem{jacobson_1988}
+V.~Jacobson, ``Congestion avoidance and control,'' \emph{ACM SIGCOMM Symposium
+  1988}, 1988.
+
+\bibitem{gross_harris_1974}
+D.~Gross and C.~M. Harris, \emph{Fundamentals of queueing theory}.\hskip 1em
+  plus 0.5em minus 0.4em\relax Wiley, 1974.
+
+\bibitem{lazowska_zahorjan_graham_sevcik_1984}
+E.~Lazowska, J.~Zahorjan, G.~Graham, and K.~Sevcik, \emph{Quantitative system
+  performance: Computer system analysis using queueing network models}.\hskip
+  1em plus 0.5em minus 0.4em\relax Prentice-Hall, Inc., 1984.
+
+\bibitem{paul_1999}
+A.~Paul, ``Qos in data networks: Protocols and standards,'' 1999.
+
+\bibitem{duzbeck_2006}
+\BIBentryALTinterwordspacing
+F.~Duzbeck, ``Bandwidth management is here to stay,'' \emph{Network World},
+  vol.~23, no.~13, p.~37, 2006. [Online]. Available:
+  \url{http://search.proquest.com/docview/215977831?accountid=47253}
+\BIBentrySTDinterwordspacing
+
+\bibitem{internet_live_stats_2016}
+\BIBentryALTinterwordspacing
+I.~L. Stats, ``Number of internet users,'' 2016. [Online]. Available:
+  \url{http://www.internetlivestats.com/internet-users/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{comer_1999}
+D.~Comer, \emph{Computer Networks and Internets}.\hskip 1em plus 0.5em minus
+  0.4em\relax Prentice-Hall International, Inc., 1999.
+
+\bibitem{jerkin_wang_1999}
+\BIBentryALTinterwordspacing
+J.~Jerkins and J.~Wang, ``Ffrom network measurement collection to traffic
+  peformance modeling: challenges and lessons learned,'' \emph{Journal of the
+  Brazilian Computer Society}, vol.~5, no.~3, 1999. [Online]. Available:
+  \url{http://dx.doi.org/10.1590/S0104-65001999000100003}
+\BIBentrySTDinterwordspacing
+
+\bibitem{cisco_2008}
+\BIBentryALTinterwordspacing
+\emph{WAN and Application Optimization Solution Guide [PDF document]}.\hskip
+  1em plus 0.5em minus 0.4em\relax Cisco Systems Inc., 2008. [Online].
+  Available:
+  \url{http://www.cisco.com/c/dam/en/us/td/docs/nsite/wan\_optimization/WANoptSolutionGd.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{schneider_1996}
+\BIBentryALTinterwordspacing
+P.~Schneider, ``Tcp/ip traffic classification based on port numbers (diploma
+  thesis) [pdf document],'' 1996. [Online]. Available:
+  \url{http://www.schneider-grin.ch/media/pdf/diploma\_thesis.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{karim_2012}
+L.~Karim, N.~Nasser, T.~Taleb, and A.~Alqallaf, ``An efficient priority packet
+  scheduling algorithm for wireless sensor network,'' \emph{IEEE ICC 2012
+  Ad-hoc and Sensor Networking Symposium}, pp. 335--338, 2012.
+
+\bibitem{muhilan_2013}
+R.~Muhilan, S.~Arulselvi, and T.~Kiran~Kumar, ``Packet scheduling algorithms
+  simulator wfq, scfq and wf2q,'' \emph{International Journal of Scientific \&
+  Technology Research}, vol.~2, no.~10, pp. 249--252, Oct 2013.
+
+\end{thebibliography}
